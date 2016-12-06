@@ -1,0 +1,7 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "hello-sp-fx",
+    "libraryId": "6cc1544e-150e-4f63-b2f6-1576c577526a",
+    "framework": "react"
+  }
+}

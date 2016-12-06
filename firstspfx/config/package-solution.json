@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "hello-sp-fx-client-side-solution",
+    "id": "6cc1544e-150e-4f63-b2f6-1576c577526a",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/hello-sp-fx.spapp"
+  }
+}

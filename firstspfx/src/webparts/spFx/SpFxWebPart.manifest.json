@@ -1,0 +1,18 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "fbae09c5-46f1-40bb-8b69-c46988e49b1f",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+  "preconfiguredEntries": [{
+    "groupId": "fbae09c5-46f1-40bb-8b69-c46988e49b1f",
+    "group": { "default": "Under Development" },
+    "title": { "default": "SPFx" },
+    "description": { "default": "The first attempt of creating a newworld SharePoint solution" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "SPFx babab"
+    }
+  }]
+}

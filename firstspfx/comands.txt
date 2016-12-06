@@ -1,0 +1,22 @@
+mkdir espc16
+cd espc16\
+npm i -g yo gulp
+npm ls graceful-fs
+npm i graceful-fs
+npm i @microsoft/generator-sharepoint -g
+mkdir firstspfx
+cd firstspfx\
+yo @microsoft/sharepoint
+gulp serve
+
+
+
+
+gulp bundle
+gulp bundle --ship
+gulp package-solution --ship
+
+gulp test
+
+explorer .
+code .
